@@ -1,7 +1,7 @@
 # Blackjack-Game
 
-Built with:
-
--HTML
--CSS
+Built with:<br>
+<br>
+-HTML<br>
+-CSS<br>
 -JavaScript
